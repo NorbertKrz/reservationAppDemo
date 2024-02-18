@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "581837960739",
+    "firebase_url": "https://reservationapp-6d7a5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reservationapp-6d7a5",
+    "storage_bucket": "reservationapp-6d7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581837960739:android:0f3fedcfc8d8ab08a56396",
+        "android_client_info": {
+          "package_name": "com.example.buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bwYs4L-Z0uSrYL4BxgNwSYfpZ5P8w7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581837960739-gn4ui7j4utevlhjvnnt8q7tb7ea2vvbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581837960739:android:cef3716f49c6f130a56396",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bwYs4L-Z0uSrYL4BxgNwSYfpZ5P8w7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581837960739-gn4ui7j4utevlhjvnnt8q7tb7ea2vvbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581837960739:android:162f44463821df60a56396",
+        "android_client_info": {
+          "package_name": "com.example.reservation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bwYs4L-Z0uSrYL4BxgNwSYfpZ5P8w7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581837960739-fbpg5d396t3835guhkdm7ah8uom88esh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581837960739-gn4ui7j4utevlhjvnnt8q7tb7ea2vvbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
