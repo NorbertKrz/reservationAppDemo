@@ -2,18 +2,17 @@
 
 Application for managing your restaurant and staff.
 
+
 Data structure: https://miro.com/app/board/uXjVNb1s6dM=/?share_link_id=256824122587
 
-
-<img width="1277" alt="login" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/2d9d3ef7-39e9-4214-b126-a5cc301edb96">
-<img width="1277" alt="Dashboard" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/a82b2e1f-449c-46a7-af48-5cf8c7198b5c">
-<img width="1277" alt="Dashboard_dark" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/993b8544-f7eb-44de-9458-079e4764271d">
-<img width="1277" alt="profil" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/5a5b5242-00b6-41ca-b4cb-2c64af2fc023">
-<img width="1279" alt="tworzenie sali" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/e612c48a-fd55-4955-8dba-187decae19a2">
-<img width="1277" alt="umieszczanie stolików" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/7615eb1a-b531-456d-a831-42fb26e0baa4">
-<img width="1277" alt="widok_sali_1" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/e16b9e89-84c6-4e99-aa85-fb15388ce567">
-<img width="1277" alt="widok_sali_2" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/86572371-65b2-44a3-a65f-ecbdeb0afc4f">
-<img width="1277" alt="rezerwacja" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/b77a2960-a63d-4e75-8c8b-bf34160f3b7e">
-<img width="400" alt="Phone1" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/e9284544-c575-4587-a822-604b68771d44">
-<img width="400" alt="Phone2" src="https://github.com/NorbertKrz/reservationApp_demo/assets/106585377/706d0461-31ba-4409-84c2-bd1256231114">
-
+<img width="1277" alt="login" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/7aefca14-57b2-44f6-8d89-2a6c78a8d3fa">
+<img width="1279" alt="Dashboard" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/04d61165-5c2e-49e2-a366-038c35e38f9d">
+<img width="1277" alt="Dashboard_dark" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/6e875e50-bf8f-42d6-8cac-8a00344354fc">
+<img width="1277" alt="profil" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/b31298f3-3bc3-4e0e-87a9-624bcdaf1643">
+<img width="1279" alt="tworzenie sali" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/ebfae1a5-863b-4113-88cd-67cb2d76c463">
+<img width="1277" alt="umieszczanie stolików" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/6a1806c7-093e-4332-b5a5-881a63aa554e">
+<img width="1277" alt="widok_sali_1" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/b5210c36-3d69-478f-8e74-773022ca69f0">
+<img width="1277" alt="widok_sali_2" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/621c7822-00e5-463e-bd09-b5e772d9a168">
+<img width="1277" alt="rezerwacja" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/f6ee01fa-a5eb-4367-b825-ad0ac9c9271c">
+<img width="400" alt="phone1" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/821024d7-0e00-48d6-a433-ba6b4a6398fe">
+<img width="400" alt="phone2" src="https://github.com/NorbertKrz/reservationAppDemo/assets/106585377/bedffaec-3cd2-4326-a360-19c6972fddcc">
